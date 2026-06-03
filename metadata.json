@@ -1,0 +1,6 @@
+{
+  "name": "Obrero Studio",
+  "description": "Uma apresentação interativa e proposta de negócios para o estúdio de desenvolvimento web Obrero. Analisa as proporções de design do Gordian Framer, propõe categorias de produtos com preços interativos, integrando Canvas p5.js e calculadora de orçamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
